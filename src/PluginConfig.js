@@ -89,6 +89,11 @@ const presetPluginConfigs: Array<PluginConfig> = [
     label: 'stage-3',
     package: 'babel-preset-stage-3',
     isPreLoaded: true
+  },
+  {
+    label: 'eventual-send',
+    package: '@agoric/transform-eventual-send',
+    isPreLoaded: true
   }
 ];
 

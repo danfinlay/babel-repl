@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@agoric/transform-eventual-send@^1.2.2":
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/@agoric/transform-eventual-send/-/transform-eventual-send-1.2.2.tgz#e0e6cd4b61b7a37dc503c3d2e3c30b8678ab32ad"
+  integrity sha512-KPeGqo2c8l4DuvhYacMvTcm4+nyngp7hnuUpbqVr2of8qheGZLPI8fFYkGfHzCziTCgKnK7qdLKBf8YoiDRGOw==
+
 abab@^1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.3.tgz#b81de5f7274ec4e756d797cd834f303642724e5d"

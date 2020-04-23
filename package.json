@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://bvaughn.github.io/babel-repl",
   "dependencies": {
+    "@agoric/transform-eventual-send": "^1.2.2",
     "codemirror": "^5.28.0",
     "flow-bin": "^0.52.0",
     "glamor": "^2.20.39",
